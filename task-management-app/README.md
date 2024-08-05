@@ -37,31 +37,31 @@ This project is a task management application developed using NestJS. It demonst
 2. **Install Dependencies**:
 
     ```bash
-    pnpm install
+    npm install
     ```
 
 3. **Run the Application**:
 
     ```bash
-    pnpm start
+    npm start
     ```
 
 4. **Run in Development Mode**:
 
     ```bash
-    pnpm run start:dev
+    npm run start:dev
     ```
 
 5. **Build the Application**:
 
     ```bash
-    pnpm run build
+    npm run build
     ```
 
 6. **Run Tests**:
 
     ```bash
-    pnpm run test
+    npm run test
     ```
 
 ## License

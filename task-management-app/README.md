@@ -8,6 +8,8 @@ This project is a task management application developed using NestJS. It demonst
 
 ## API Endpoints
 
+### Tasks
+
 | Endpoint                  | Method | Description                 |
 |---------------------------|--------|-----------------------------|
 | `/tasks`                  | GET    | Get tasks (including filters) |
@@ -15,6 +17,13 @@ This project is a task management application developed using NestJS. It demonst
 | `/tasks`                  | POST   | Create a new task           |
 | `/tasks/:id`              | DELETE | Delete a task by ID         |
 | `/tasks/:id/status`       | PATCH  | Update the status of a task |
+
+### Authentication
+
+| Endpoint         | Method | Description   |
+|------------------|--------|---------------|
+| `/auth/signup/`  | POST   | Sign Up       |
+| `/auth/login/`   | POST   | Log In        |
 
 ## Usage
 
@@ -28,31 +37,31 @@ This project is a task management application developed using NestJS. It demonst
 2. **Install Dependencies**:
 
     ```bash
-    npm install
+    pnpm install
     ```
 
 3. **Run the Application**:
 
     ```bash
-    npm run start
+    pnpm start
     ```
 
 4. **Run in Development Mode**:
 
     ```bash
-    npm run start:dev
+    pnpm run start:dev
     ```
 
 5. **Build the Application**:
 
     ```bash
-    npm run build
+    pnpm run build
     ```
 
 6. **Run Tests**:
 
     ```bash
-    npm run test
+    pnpm run test
     ```
 
 ## License

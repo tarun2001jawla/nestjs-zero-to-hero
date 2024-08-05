@@ -7,6 +7,7 @@ This repository is a companion project for the Udemy course "NestJS Zero to Hero
 NestJS is a Node.js back-end development framework built upon Express, leveraging the power of TypeScript. It provides an out-of-the-box application architecture which allows developers to create highly testable, scalable, loosely coupled, and easily maintainable applications.
 
 ### What You’ll Learn
+
 - Becoming familiar with the NestJS framework and its components
 - Designing and developing REST APIs performing CRUD operations
 - Authentication and Authorization for back-end applications
@@ -32,49 +33,59 @@ NestJS is a Node.js back-end development framework built upon Express, leveragin
 - Database persistence with MongoDB
 
 ### Course Prerequisites
+
 - Basic understanding of JavaScript and/or NodeJS
 - Basic knowledge of TypeScript is recommended, but not required
 
 ## Project Setup
 
 1. **Clone the Repository**:
+
     ```bash
     git clone https://github.com/your-username/nestjs-zero-to-hero.git
     cd nestjs-zero-to-hero
     ```
 
 2. **Install Dependencies**:
+
     ```bash
     npm install
     ```
 
 3. **Running the Application**:
+
     ```bash
     npm run start
     ```
 
 4. **Running in Development Mode**:
+
     ```bash
     npm run start:dev
     ```
 
 5. **Building the Application**:
+
     ```bash
     npm run build
     ```
 
 6. **Running Tests**:
+
     ```bash
     npm run test
     ```
 
 ## Resources
+
 - [NestJS Documentation](https://docs.nestjs.com/)
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
 - [Udemy Course: NestJS Zero to Hero](https://www.udemy.com/course/nestjs-zero-to-hero/)
 
 ## License
+
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
+
 Special thanks to [Ariel Weinberger](https://www.udemy.com/user/ariel-weinberger-2/) for creating this comprehensive course on NestJS.

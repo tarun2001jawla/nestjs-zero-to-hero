@@ -4,7 +4,7 @@ This project is a task management application developed using NestJS. It demonst
 
 ## Project Structure
 
-![Project Structure](./public/App Structure.svg)
+![Project Structure](./public/App%20Structure.svg)
 
 ## API Endpoints
 

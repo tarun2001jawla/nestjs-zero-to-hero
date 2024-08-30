@@ -42,7 +42,7 @@ NestJS is a Node.js back-end development framework built upon Express, leveragin
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/your-username/nestjs-zero-to-hero.git
+    git clone https://github.com/tarun2001jawla/nestjs-zero-to-hero.git
     cd nestjs-zero-to-hero
     ```
 
